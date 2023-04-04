@@ -1,0 +1,30 @@
+body {
+    background-color: lavender
+}
+
+h1 {
+    text-align: center;
+}
+
+
+.botao-link {
+    background-color: #4CAF50;
+    border: none;
+    color: cadetblue padding: 10px 20px;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 18px;
+    font-family: Arial, sans-serif;
+    cursor: pointer;
+}
+
+footer {
+    position: fixed;
+    left: 0;
+    bottom: 0;
+    width: 100%;
+    background-color: #f2f2f2;
+    color: #333;
+    text-align: center;
+    padding: 20px;
+}
